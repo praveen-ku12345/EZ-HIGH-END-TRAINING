@@ -1,3 +1,4 @@
+//Singly linked list
 import java.util.Scanner;
 
 class Node {
